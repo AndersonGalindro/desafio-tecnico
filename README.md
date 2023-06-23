@@ -3,6 +3,7 @@
 #### Falta a criação dos testes unitários.
 #### Falta criação e implementação das exceptions.
 #### Falta melhorar o SwaggerUi (está implementado, porém está padrão, não foi customizado ainda)
+#### Falta implementar ENUM em sexo e tipo sanguíneo 
 
 ## Composição da aplicação
 ### Banco: H2
